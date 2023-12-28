@@ -1,6 +1,12 @@
 # Natural Language Processing Projects
 This repository contains projects I have done under NLP.
 
+### Skills : 
+Python<br>
+Supervised Learning, Unsupervised Learning, CNNs <br>
+Text Preprocessing, Syntactic Analysis, Semantic Analysis, Linguistics <br>
+Libraries : NLTK
+
 ### 1. Comparative Sentiment Analysis using VADER in NLTK and Hugging Face's Pretrained Model.
 Research Question : How does the Sentiment Analysis performance using VADER in NLTK compare with 
 the Hugging Face's RoBERTa pretrained model when analyzing Women's E-commerce Clothing reviews?
