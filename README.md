@@ -1,7 +1,7 @@
 # Natural Language Processing Projects
 This repository contains projects I have done under NLP.
 
-### Skills : 
+### Skills I have : 
 Python<br>
 Supervised Learning, Unsupervised Learning, CNNs <br>
 Text Mining, Text Preprocessing, Syntactic Analysis, Semantic Analysis, Linguistics <br>
